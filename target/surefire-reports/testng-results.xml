@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31" started-at="2018-02-16T21:19:17Z" finished-at="2018-02-16T21:19:17Z">
+  <suite name="Suite" duration-ms="31" started-at="2018-02-16T22:14:40Z" finished-at="2018-02-16T22:14:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="31" started-at="2018-02-16T21:19:17Z" finished-at="2018-02-16T21:19:17Z">
+    <test name="Test" duration-ms="31" started-at="2018-02-16T22:14:40Z" finished-at="2018-02-16T22:14:40Z">
       <class name="com.mycompany.app.SeleniumTest">
-        <test-method status="PASS" signature="invokeWebBrowser()[pri:0, instance:com.mycompany.app.SeleniumTest@71be98f5]" name="invokeWebBrowser" duration-ms="0" started-at="2018-02-16T16:19:17Z" finished-at="2018-02-16T16:19:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- invokeWebBrowser -->
-        <test-method status="PASS" signature="enterUrl()[pri:0, instance:com.mycompany.app.SeleniumTest@71be98f5]" name="enterUrl" duration-ms="0" started-at="2018-02-16T16:19:17Z" finished-at="2018-02-16T16:19:17Z">
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:com.mycompany.app.SeleniumTest@71be98f5]" name="enterUrl" duration-ms="0" started-at="2018-02-16T17:14:40Z" finished-at="2018-02-16T17:14:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterUrl -->
-      </class> <!-- com.mycompany.app.SeleniumTest -->
-      <class name="com.mycompany.app.AppiumTest">
-        <test-method status="PASS" signature="iOSApp()[pri:0, instance:com.mycompany.app.AppiumTest@6fadae5d]" name="iOSApp" duration-ms="0" started-at="2018-02-16T16:19:17Z" finished-at="2018-02-16T16:19:17Z">
+        <test-method status="PASS" signature="invokeWebBrowser()[pri:0, instance:com.mycompany.app.SeleniumTest@71be98f5]" name="invokeWebBrowser" duration-ms="0" started-at="2018-02-16T17:14:40Z" finished-at="2018-02-16T17:14:40Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- iOSApp -->
-        <test-method status="PASS" signature="androidApp()[pri:0, instance:com.mycompany.app.AppiumTest@6fadae5d]" name="androidApp" duration-ms="0" started-at="2018-02-16T16:19:17Z" finished-at="2018-02-16T16:19:17Z">
+        </test-method> <!-- invokeWebBrowser -->
+      </class> <!-- com.mycompany.app.SeleniumTest -->
+      <class name="com.mycompany.app.AppiumTest">
+        <test-method status="PASS" signature="androidApp()[pri:0, instance:com.mycompany.app.AppiumTest@6fadae5d]" name="androidApp" duration-ms="2" started-at="2018-02-16T17:14:40Z" finished-at="2018-02-16T17:14:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- androidApp -->
+        <test-method status="PASS" signature="iOSApp()[pri:0, instance:com.mycompany.app.AppiumTest@6fadae5d]" name="iOSApp" duration-ms="1" started-at="2018-02-16T17:14:40Z" finished-at="2018-02-16T17:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSApp -->
       </class> <!-- com.mycompany.app.AppiumTest -->
       <class name="com.mycompany.app.RestAPITest">
-        <test-method status="PASS" signature="method5()[pri:0, instance:com.mycompany.app.RestAPITest@3d24753a]" name="method5" duration-ms="16" started-at="2018-02-16T16:19:17Z" finished-at="2018-02-16T16:19:17Z">
+        <test-method status="PASS" signature="method5()[pri:0, instance:com.mycompany.app.RestAPITest@3d24753a]" name="method5" duration-ms="5" started-at="2018-02-16T17:14:40Z" finished-at="2018-02-16T17:14:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- method5 -->
-        <test-method status="PASS" signature="method6()[pri:0, instance:com.mycompany.app.RestAPITest@3d24753a]" name="method6" duration-ms="0" started-at="2018-02-16T16:19:17Z" finished-at="2018-02-16T16:19:17Z">
+        <test-method status="PASS" signature="method6()[pri:0, instance:com.mycompany.app.RestAPITest@3d24753a]" name="method6" duration-ms="0" started-at="2018-02-16T17:14:40Z" finished-at="2018-02-16T17:14:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- method6 -->
